@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME: K SHAKTHI SUNDAR</H3>
-<H3>ENTER YOUR REGISTER NO. 212222040152</H3>
+<H3>ENTER YOUR NAME: R Saketram</H3>
+<H3>ENTER YOUR REGISTER NO. 212223230181 </H3>
 <H3>EX. NO.5</H3>
-<H3>DATE: 24-04-2024</H3>
+<H3>DATE: 29-04-2024</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
